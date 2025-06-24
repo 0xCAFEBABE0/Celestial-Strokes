@@ -1,14 +1,4 @@
-# 🌌 Celestial Strokes（墨染星河）
-
-> “星汉西流，空把银河作梦。” — 唐·李白《夜泊牛渚怀古》
-
-欢迎来到 **墨染星河**，记录阅读的灵感火花与它们激发的故事。在这里，每本书都是一颗星，每一段感悟都等待发现。
-
----
-
-## ✨ 灵感分享指南
-- 🌟 写下阅读时引发的梦境或幻想，让文字成为自由的翅膀。
-- 💌 记录一本书在特定时刻带给你的慰藉或力量，感恩那瞬间的温暖。
+# 🌌 Celestial Strokes
 
 ---
 ## 🚀 电子书下载列表（请勿用于商用！！）
@@ -24,16 +14,3 @@
 | 《深入理解Apache Dubbo与实战》 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14352943.svg)](https://zenodo.org/records/14352943/files/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Apache%20Dubbo%E4%B8%8E%E5%AE%9E%E6%88%98.pdf) |  | 7c81194848bc15eeee5bcfb9e4c8efad |
 | 《深入理解Kafka 核心设计与实践原理》 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14352943.svg)](https://zenodo.org/records/14352943/files/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Kafka%20%E6%A0%B8%E5%BF%83%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E8%B7%B5%E5%8E%9F%E7%90%86.pdf) |  | 0cd9f6b675a75b78d45595410d1f5422 |
 
-
-
----
-
-> “在书的星河中漫步，捕捉每一道微光，与世界分享你的心灵轨迹。”
-
---- 
-
-## 📧 联系我们
-
-📌 **官方网站**: [墨染星河](https://yourdomain.com)  
-📬 **联系邮箱**: galaxybook@yourdomain.com  
-📱 **社交媒体**: [微博](https://weibo.com/yourpage) | [公众号](https://mp.weixin.qq.com)
